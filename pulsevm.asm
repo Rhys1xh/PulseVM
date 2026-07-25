@@ -22,6 +22,8 @@
 ;
 ; Usage: ./pulsevm [port] [root_dir] [user] [keepalive_max] [cores]
 ;
+; BSL-1.0
+;
 ; Requirements: Linux 5.1+, liburing
 ;==============================================================================
 
